@@ -1,0 +1,34 @@
+_repo: Jimsy-and-the-Monsters_31716
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31716-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sheldon, Walter J.
+    aliases:
+    - Sheldon, Walt
+    - Sheldon, Walter James
+    birthdate: 1917
+    deathdate: 1996
+    gutenberg_agent_id: '33576'
+    url: http://www.gutenberg.org/2009/agents/33576
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Motion picture industry -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Hollywood (Los Angeles, Calif.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Jimsy and the Monsters
+url: http://www.gutenberg.org/ebooks/31716
